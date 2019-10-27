@@ -3,7 +3,7 @@
 Ceres Solver
 ============
 
-You can find Ceres Solve in [here](https://ceres-solver.googlesource.com/ceres-solver)
+You can find Ceres Solve [here](https://ceres-solver.googlesource.com/ceres-solver).   
 I create this repo for myself to clone it conveniently without proxy.
 
 Ceres Solver is an open source C++ library for modeling and solving
